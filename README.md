@@ -19,6 +19,10 @@ The user must load the form clicking on an excel action button,then the followin
 
 
 
+
+
+
+
 ![image](https://github.com/DanielHzp/AutomatedDataEntryInterface/assets/124480168/18982b83-b27f-4c4a-b5b0-0d8bb3966294)
 
 
