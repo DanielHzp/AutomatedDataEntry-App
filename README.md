@@ -11,6 +11,8 @@ dbADOConnection.Open ConnectionString, UserID, Password, OpenOptions
 
 
 
+
+
 The user must load the form clicking on an excel action button,then the following attributes must be filled out and an option to automatically write data on the dataset becomes available:
 
 
