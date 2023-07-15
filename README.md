@@ -1,6 +1,6 @@
 # AutomatedDataEntryInterface
 
-This is a desktop excel business solution that automates data entry of customers info. through a friendly user interface. This user form updates and sets new records in a local data set that should populate a SQl server data base using an ADO Visual Basic Connection.
+This is a desktop business solution that automates data entry of customers info. through a friendly user interface. This user form updates and sets new records in a local data set that should populate a SQl server data base using an ADO Visual Basic Connection.
 
 
 i.e.
