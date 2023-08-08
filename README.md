@@ -26,7 +26,7 @@ The user must load the form clicking on an excel action button,then the followin
 <br/>
 
 
-The form contains a 'Add New Record' button and an option to clean all the user input fields. Additionally, a 'Delete Record' button lets the user select which record should be deleted. When the user clicks on the 'save' option, all new input fields are added to a new row in the following dataset which is synchronized. to the SQL business server:
+The form contains a 'Add New Record' button and an option to clean all the user input fields. Additionally, a 'Delete Record' button lets the user select which record should be deleted. When the user clicks on the 'save' option, all new input fields are added to a new row in the following dataset which is synchronized with a SQL business server connection:
 
 ![image](https://github.com/DanielHzp/AutomatedDataEntryInterface/assets/124480168/5ecde386-9c4d-4718-b09a-59c7abe2831e)
 
