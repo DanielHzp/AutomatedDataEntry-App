@@ -6,10 +6,7 @@ This is a desktop business solution that automates customers data entry through 
 
 Sample:
 
-i.e.
-dbADOConnection = new ADODB.Connection 
-
-dbADOConnection.Open ConnectionString, UserID, Password, OpenOptions
+https://github.com/DanielHzp/AutomatedDataEntryInterface/blob/008e10f2cf1220aa50287400b1cd368b2515bd22/On%20Click%20Actions/InsertDataDB.bas#L4-L43
 
 
 <br/>
@@ -19,7 +16,7 @@ The user must load the form clicking on an excel action button,then the followin
 
 <br/>
 
-<img src="https://github.com/DanielHzp/AutomatedDataEntryInterface/assets/124480168/18982b83-b27f-4c4a-b5b0-0d8bb3966294" width="490" height="490">
+<img src="https://github.com/DanielHzp/AutomatedDataEntryInterface/assets/124480168/18982b83-b27f-4c4a-b5b0-0d8bb3966294" width="510" height="510">
 
 <br/>
 
@@ -29,7 +26,7 @@ The user must load the form clicking on an excel action button,then the followin
 <br/>
 
 
-When the user clicks on the 'save' option all new records are added to the following dataset which is pending to be synch. to the SQL business server:
+The form contains a 'Add New Record' button and an option to clean all the user input fields. Additionally, a 'Delete Record' button lets the user select which record should be deleted. When the user clicks on the 'save' option, all new input fields are added to a new row in the following dataset which is synchronized. to the SQL business server:
 
 ![image](https://github.com/DanielHzp/AutomatedDataEntryInterface/assets/124480168/5ecde386-9c4d-4718-b09a-59c7abe2831e)
 
